@@ -1,4 +1,4 @@
-# [Seu nome] <img src=https://i.pinimg.com/originals/ba/22/fd/ba22fd0fe21cf00504eed09fce15beb4.gif width="70px">
+# [Seu nome] <img src=https://www.icegif.com/wp-content/uploads/2023/09/icegif-400.gif width="70px">
 
 Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
