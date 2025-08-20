@@ -1,4 +1,4 @@
-# [Seu nome] <img src=https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyNnJlMWUzNXNhenFoNTF3Zzkydm1mbTNoNjh1ZmV3cHhqaWg3dXc4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g0OT8JBFRc8SY/giphy.gif width="70px">
+# [Seu nome] <img src=https://i.pinimg.com/originals/ba/22/fd/ba22fd0fe21cf00504eed09fce15beb4.gif width="70px">
 
 Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
