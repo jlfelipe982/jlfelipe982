@@ -1,4 +1,4 @@
-# José Luis                     <img src=https://www.icegif.com/wp-content/uploads/2023/09/icegif-400.gif width="70px">
+# José Luis <img src=https://www.icegif.com/wp-content/uploads/2023/09/icegif-400.gif width="70px">
 
 Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
