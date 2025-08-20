@@ -1,20 +1,8 @@
 # José Luis <img src=https://www.icegif.com/wp-content/uploads/2023/09/icegif-400.gif width="70px">
 
-Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Se Chegou ate aqui quer dizer que está em um bom lugar 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
+- 🚀 Atualmente estou cursando: <strong> Ads mas ja tive formação tecnica em TI ent sei o basico de algumas linguagens de programação</strong> 
+- 💬 Hobbies: <strong>Meus hobbies é ler, Escutar musica, Assistir bstante Anime e adoro jogar jogos competitivos mas se for para jogar outro jogo eu aceito de boas</strong>
+- 📣 Me chama no Whats se quiser conversar mais e fazer amizade
 
-<div align="center">
-
-  <a href="#" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
-
-  <a href="#" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-  <a href="#" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-
-</div>
