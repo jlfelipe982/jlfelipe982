@@ -1,4 +1,4 @@
-# [Seu nome] <img src=[https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif](https://giffiles.alphacoders.com/880/8805.gif) width="30px">
+# [Seu nome] <img src=https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyNnJlMWUzNXNhenFoNTF3Zzkydm1mbTNoNjh1ZmV3cHhqaWg3dXc4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g0OT8JBFRc8SY/giphy.gif width="30px">
 
 Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
