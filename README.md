@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá me chamo luis e estou atualmente cursando ADS(2°MÓDULO)<br>Atualmente estou aprendendo a mexer no github<br>sou aluno do embarque digital<br>e estou localizado no porto digital
+Olá me chamo luis e estou atualmente cursando ADS(2°MÓDULO)
 
 
 # 💻 Tech Stack:
